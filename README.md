@@ -3,8 +3,7 @@
 > **A Python-powered voice assistant for Windows that lets you control your desktop, search the web, get information, play music, and interact with AI — all through voice commands.**
 
 Jarvis Assistant Desktop is a lightweight Python-based personal voice assistant designed for Windows. Simply speak a command, and Jarvis can perform tasks such as checking the time and weather, opening applications, searching the web, playing music, taking screenshots, providing system information, and answering general questions using AI.
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6ced6ead-d72f-4cb5-b388-a306c0d0f4e2" />
-
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/6ced6ead-d72f-4cb5-b388-a306c0d0f4e2" />
 ---
 
 ## ✨ Features
@@ -684,7 +683,7 @@ Feel free to modify and extend it for your own learning and experimentation.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Samni Hasnath**
 
 If you found this project useful, consider giving the repository a ⭐ on GitHub!
 
